@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, AI, ML, AWS**
 
-💬 Ask me about **Koitlin, ASP.NET, C#... or anything [here](https://github.com/abdala101/)**
+💬 Ask me about **Koitlin, ASP.NET, C#... or anything [here](https://github.com/abdala101?tab=repositories)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
